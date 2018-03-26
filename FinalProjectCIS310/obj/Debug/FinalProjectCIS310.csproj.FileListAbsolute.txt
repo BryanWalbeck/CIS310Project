@@ -1,0 +1,150 @@
+c:\users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.exe.config
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.exe
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.pdb
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateResponsibleParty.resources
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.Properties.Resources.resources
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.csproj.GenerateResource.Cache
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.exe
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.pdb
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.csprojResolveAssemblyReference.cache
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateProduct.resources
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateLessons.resources
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdatePurchases.resources
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateRegistration.resources
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDatabase.mdf
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDatabase_log.ldf
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.MainMenu.resources
+C:\Users\bwalb\onedrive\documents\visual studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.AddUpdateCustomer.resources
+C:\Users\bwalb\OneDrive\Documents\Visual Studio 2015\Projects\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.Login.resources
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.exe.config
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.exe
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.pdb
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDatabase.mdf
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDatabase_log.ldf
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.exe
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.pdb
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.csprojResolveAssemblyReference.cache
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.AddUpdateCustomer.resources
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateProduct.resources
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdatePurchases.resources
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateRegistration.resources
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateResponsibleParty.resources
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateLessons.resources
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.Properties.Resources.resources
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.Login.resources
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.MainMenu.resources
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.csproj.GenerateResource.Cache
+C:\Users\bwalb\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UserMenu.resources
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.exe.config
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.exe
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.pdb
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDatabase.mdf
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDatabase_log.ldf
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.exe
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.pdb
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.csprojResolveAssemblyReference.cache
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.AddUpdateCustomer.resources
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateProduct.resources
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdatePurchases.resources
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateRegistration.resources
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateResponsibleParty.resources
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateLessons.resources
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.Properties.Resources.resources
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UserMenu.resources
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.Login.resources
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.MainMenu.resources
+C:\Users\bwalb885\Desktop\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.csproj.GenerateResource.Cache
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.exe.config
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.exe
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.pdb
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDatabase.mdf
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDatabase_log.ldf
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.exe
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.pdb
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.csprojResolveAssemblyReference.cache
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.AddUpdateCustomer.resources
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateProduct.resources
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdatePurchases.resources
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateRegistration.resources
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateResponsibleParty.resources
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateLessons.resources
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.Properties.Resources.resources
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UserMenu.resources
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.Login.resources
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.MainMenu.resources
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.csproj.GenerateResource.Cache
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.UserPurchases.resources
+E:\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.UserProducts.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.exe.config
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.exe
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.pdb
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDatabase.mdf
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDatabase_log.ldf
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.exe
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.pdb
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.csprojResolveAssemblyReference.cache
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.AddUpdateCustomer.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateProduct.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdatePurchases.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateRegistration.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateResponsibleParty.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateLessons.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.Properties.Resources.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UserMenu.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.Login.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.MainMenu.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.UserProducts.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.csproj.GenerateResource.Cache
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.UserInformation.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UserPurchases.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UserLessons.resources
+C:\Users\bwalb\Desktop\Final_Project_CIS_310\FinalProjectCIS310\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.UserInvoice.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.exe.config
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.exe
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.pdb
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDatabase.mdf
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDatabase_log.ldf
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.exe
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.pdb
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.csprojResolveAssemblyReference.cache
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.AddUpdateCustomer.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateProduct.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdatePurchases.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateRegistration.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateResponsibleParty.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateLessons.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.Properties.Resources.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.UserInformation.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.UserInvoice.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UserMenu.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.Login.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.MainMenu.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.UserProducts.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UserLessons.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UserPurchases.resources
+C:\Users\bwalb\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.csproj.GenerateResource.Cache
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.exe.config
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.exe
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.pdb
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDatabase.mdf
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDatabase_log.ldf
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\bin\Debug\DA\JSMusicStudioDB.cs
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.exe
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\bin\Debug\FinalProjectCIS310.pdb
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.csprojResolveAssemblyReference.cache
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.AddUpdateCustomer.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateProduct.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdatePurchases.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateRegistration.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateResponsibleParty.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.AddUpdateLessons.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.Properties.Resources.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.UserInformation.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.UserInvoice.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UserMenu.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.Login.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.MainMenu.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UI.UserProducts.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UserLessons.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.UserPurchases.resources
+C:\Users\bwalb885\Desktop\FinalProject_BryanWalbeck\FinalProjectCIS310\obj\Debug\FinalProjectCIS310.csproj.GenerateResource.Cache

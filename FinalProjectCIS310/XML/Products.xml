@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product ID="1">
+    <Name>Sheet Music</Name>
+    <Type>Keytar</Type>
+    <Price>2.00</Price>
+  </Product>
+  <Product ID="2">
+    <Name>Sheet Music</Name>
+    <Type>Piano</Type>
+    <Price>2.00</Price>
+  </Product>
+  <Product ID="3">
+    <Name>aaaa</Name>
+    <Type>aaaa</Type>
+    <Price>12</Price>
+  </Product>
+  <Product ID="4">
+    <Name>Bob's Intro to Guitar</Name>
+    <Type>Beginner</Type>
+    <Price>10.75</Price>
+  </Product>
+  <Product ID="5">
+    <Name>Test</Name>
+    <Type>123</Type>
+    <Price>5</Price>
+  </Product>
+  <Product ID="6">
+    <Name>Test</Name>
+    <Type>123</Type>
+    <Price>5</Price>
+  </Product>
+  <Product ID="7">
+    <Name>Test</Name>
+    <Type>123</Type>
+    <Price>5</Price>
+  </Product>
+  <Product ID="8">
+    <Name>Jack</Name>
+    <Type>Advance</Type>
+    <Price>10.75</Price>
+  </Product>
+  <Product ID="9">
+    <Name>jACK</Name>
+    <Type>123</Type>
+    <Price>5.99</Price>
+  </Product>
+  <Product ID="10">
+    <Name>ass</Name>
+    <Type>face</Type>
+    <Price>5</Price>
+  </Product>
+  <Product ID="11">
+    <Name>h</Name>
+    <Type>a</Type>
+    <Price>2</Price>
+  </Product>
+  <Product ID="12">
+    <Name>h</Name>
+    <Type>h</Type>
+    <Price>3</Price>
+  </Product>
+  <Product ID="13">
+    <Name>bob</Name>
+    <Type>beginner</Type>
+    <Price>2</Price>
+  </Product>
+  <Product ID="14">
+    <Name>Bob's Beginner to Guitar</Name>
+    <Type>Beginner</Type>
+    <Price>50</Price>
+  </Product>
+  <Product ID="15">
+    <Name>hhhhhh</Name>
+    <Type>aaaaa</Type>
+    <Price>1</Price>
+  </Product>
+  <Product ID="16">
+    <Name>hhhhh</Name>
+    <Type>aaaaa</Type>
+    <Price>5</Price>
+  </Product>
+  <Product ID="17">
+    <Name>hhhhh</Name>
+    <Type>aaaaa</Type>
+    <Price>5</Price>
+  </Product>
+  <Product ID="18">
+    <Name>bbbb</Name>
+    <Type>ffff</Type>
+    <Price>0.75</Price>
+  </Product>
+</Products>

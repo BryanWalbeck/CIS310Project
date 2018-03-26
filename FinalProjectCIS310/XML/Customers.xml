@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Customers>
+  <Customer ID = "1">
+    <ResponsibleParty>1</ResponsibleParty>
+    <!--This will be a link to a responsible party-->
+    <FirstName>Bob</FirstName>
+    <LastName>J</LastName>
+    <Address>1234</Address>
+    <Email>aaa</Email>
+    <Username></Username>
+    <Password></Password>
+    <Phone></Phone>
+  </Customer>
+
+  <Customer ID = "2">
+    <ResponsibleParty>1</ResponsibleParty>
+    <!--This will be a link to a responsible party-->
+    <FirstName>Jack</FirstName>
+    <LastName></LastName>
+    <Address></Address>
+    <Email></Email>
+    <Username></Username>
+    <Password></Password>
+    <Phone></Phone>
+  </Customer>
+</Customers>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResponsibleParties>
+  <ResponsibleParty ID="1">
+    <FirstName>aaaaa</FirstName>
+    <LastName>aaaaaa</LastName>
+    <PhoneNumber>aaaaa</PhoneNumber>
+    <Address>aaaa</Address>
+    <Email>aaaaa</Email>
+    <UserName>aaaa</UserName>
+    <Password>aaaaaa</Password>
+    <Discount>0</Discount>
+  </ResponsibleParty>
+  <ResponsibleParty ID="2">
+    <FirstName>b</FirstName>
+    <LastName>aaaaaab</LastName>
+    <PhoneNumber>aaaaab</PhoneNumber>
+    <Address>aaaab</Address>
+    <Email>aaaaabb</Email>
+    <UserName>aaaabb</UserName>
+    <Password>aaaaaabbb</Password>
+    <Discount>0</Discount>
+  </ResponsibleParty>
+</ResponsibleParties>

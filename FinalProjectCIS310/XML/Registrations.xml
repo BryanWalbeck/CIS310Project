@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Registrations>
+  <Registration ID="1">
+    <Customer>1</Customer>
+    <Lesson>1</Lesson>
+    <ScheduledDate>2017/04/15 21:55</ScheduledDate>
+    <Completed>N</Completed>
+    <CanceledDate />
+  </Registration>
+  <Registration ID="2">
+    <Customer>1</Customer>
+    <Lesson>1</Lesson>
+    <ScheduledDate>2017/04/15 21:55</ScheduledDate>
+    <Completed>Y</Completed>
+    <CanceledDate />
+  </Registration>
+</Registrations>

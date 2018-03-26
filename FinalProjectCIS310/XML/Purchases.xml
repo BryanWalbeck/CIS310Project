@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Purchases>
+  <Purchase ID="1">
+    <Customer>1</Customer>
+    <Product>1</Product>
+    <Quantity>1</Quantity>
+    <DateOfPurchase>10/15/2016 12:15:00</DateOfPurchase>
+  </Purchase>
+  <Purchase ID="2">
+    <Customer>1</Customer>
+    <Product>2</Product>
+    <Quantity>1</Quantity>
+    <DateOfPurchase>10/17/2016 01:15:00</DateOfPurchase>
+  </Purchase>
+  <Purchase ID="3">
+    <Customer>1</Customer>
+    <Product>1</Product>
+    <Quantity>10</Quantity>
+    <DateOfPurchase>2017-04-15T20:31:34.5178843-05:00</DateOfPurchase>
+  </Purchase>
+  <Purchase ID="4">
+    <Customer>2</Customer>
+    <Product>1</Product>
+    <Quantity>232232</Quantity>
+    <DateOfPurchase>2017-04-15T20:32:28.5936249-05:00</DateOfPurchase>
+  </Purchase>
+  <Purchase ID="5">
+    <Customer>1</Customer>
+    <Product>1</Product>
+    <Quantity>1</Quantity>
+    <DateOfPurchase>20170415</DateOfPurchase>
+  </Purchase>
+  <Purchase ID="6">
+    <Customer>1</Customer>
+    <Product>1</Product>
+    <Quantity>3434</Quantity>
+    <DateOfPurchase>2017/04/15</DateOfPurchase>
+  </Purchase>
+  <Purchase ID="7">
+    <Customer>1</Customer>
+    <Product>1</Product>
+    <Quantity>444</Quantity>
+    <DateOfPurchase>2017/04/15 203935</DateOfPurchase>
+  </Purchase>
+  <Purchase ID="8">
+    <Customer>2</Customer>
+    <Product>1</Product>
+    <Quantity>4</Quantity>
+    <DateOfPurchase>2010/03/01 20:41:01</DateOfPurchase>
+  </Purchase>
+</Purchases>

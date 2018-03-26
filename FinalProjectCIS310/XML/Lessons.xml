@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lessons>
+  <Lesson ID="1">
+    <Name>Beginner</Name>
+    <Type>Guitar</Type>
+    <Price>20.00</Price>
+    <LengthInMinutes>30</LengthInMinutes>
+  </Lesson>
+  <Lesson ID="2">
+    <Name>Beginner</Name>
+    <Type>Piano</Type>
+    <Price>20.00</Price>
+    <LengthInMinutes>30</LengthInMinutes>
+  </Lesson>
+  <Lesson ID="3">
+    <Name>b</Name>
+    <Type>b</Type>
+    <Price>10</Price>
+    <LengthInMinues>10</LengthInMinues>
+  </Lesson>
+  <Lesson ID="4">
+    <Name>a</Name>
+    <Type>a</Type>
+    <Price>10.5</Price>
+    <LengthInMinues>30</LengthInMinues>
+  </Lesson>
+</Lessons>
